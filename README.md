@@ -1,5 +1,7 @@
 # WiFiConnect
 
+[![Build Status](https://travis-ci.org/akarduino/WiFiConnect.svg?branch=master)](https://travis-ci.org/akarduino/WiFiConnect)
+
 Библиотека Arduino для работы с ESP8266WiFi
 
 # Использование
